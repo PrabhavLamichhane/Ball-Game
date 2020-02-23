@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 909c017ed52fad849b96a8ab2281911b, type: 3}
+  m_Name: Player Refs
+  m_EditorClassIdentifier: 
+  curCoinCount: {fileID: 11400000, guid: 2d5715e59a253af42b20343045b29567, type: 2}
+  id: {fileID: 11400000, guid: f113f4043ebbe5a4ca0efa49d70bfd8b, type: 2}
+  boughtBall2: 0
+  boughtBall3: 0
+  boughtBall4: 0
+  boughtBall5: 0
+  onIntroPlayed: {fileID: 11400000, guid: b1dc9bf2fda43784a998d73502adbf06, type: 2}
+  e_Update_UI: {fileID: 11400000, guid: d4e558472d009524a9984462ee1456fa, type: 2}
